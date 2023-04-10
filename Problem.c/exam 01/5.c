@@ -9,7 +9,9 @@ int main() {
 
         printf('i will buy punjabi');
 
-        shoes = n- 1000;
+      int   shoes = n- 1000;
+
+        printf(shoes);
 
 
         if( shoes >=500){
@@ -22,7 +24,7 @@ int main() {
 
        }else{
         printf('nothing');
-        
+
        }
 
     return 0;
