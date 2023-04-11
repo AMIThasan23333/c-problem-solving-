@@ -8,14 +8,14 @@
 
    int digit = x/1000;
 
-   if(digit %2 == 0){
-
+   if(digit % 2 == 0){
 
     printf("EVEN\n")
+    
    }else{
 
     printf("ODD\n");
-    
+
    }
 
 
