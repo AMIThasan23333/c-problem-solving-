@@ -19,7 +19,7 @@
         }else
         {
            printf("Is Capital");
-        }   
+        }
     }
      return 0;
   }
