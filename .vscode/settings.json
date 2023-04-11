@@ -36,6 +36,9 @@
   "C_Cpp_Runner.useAddressSanitizer": false,
   "files.associations": {
     "*html": "html",
-    "2.C": "cpp"
+    "2.C": "cpp",
+    "ASCIICAPI.C": "cpp",
+    "ASII.C": "cpp",
+    "1STDIGITODDEVEN.C": "cpp"
   }
 }
