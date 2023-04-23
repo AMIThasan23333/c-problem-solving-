@@ -4,17 +4,17 @@
 
     int i,j,n;
 
-    for( j=1; j<=10; j++){
+    for( j=1; j<=12; j++){
 
       for(i =1; i<=10; i++){
 
           printf("%d x %d = %d\n",j,i,i*j);
          
       }
-     
+        printf("\n\n");
 
     }
-      printf("......");
+     
 
   }
 
