@@ -11,6 +11,9 @@
       int lenT = strlen(t);
 
       printf("%d %d\n" , lenS,lenT);
+
+       printf("%s %s\n" , s,t);
+
      return 0;
 
    
