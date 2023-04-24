@@ -38,6 +38,7 @@
 
 
       }
+      printf("%lld", res);
 
     }
 
