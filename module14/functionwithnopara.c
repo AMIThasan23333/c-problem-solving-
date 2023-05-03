@@ -11,8 +11,8 @@
 
 
 
-  int main(){
-   int s = sum();
-   printf("%d", s);
-   return 0;  
-  }
+    int main(){
+    int s = sum();
+    printf("%d", s);
+    return 0;  
+    }
