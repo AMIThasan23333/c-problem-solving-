@@ -14,11 +14,11 @@
 //    dereference
 
    
-   p =500; /* it will change the value  */
+
+   *p = 500;
 
    printf("%d\n", x);
 
-   *p = 500;
 
     printf("%d\n", &x);
 
