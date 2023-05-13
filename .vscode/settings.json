@@ -39,6 +39,7 @@
     "2.C": "cpp",
     "ASCIICAPI.C": "cpp",
     "ASII.C": "cpp",
-    "1STDIGITODDEVEN.C": "cpp"
+    "1STDIGITODDEVEN.C": "cpp",
+    "POINTER.C": "cpp"
   }
 }

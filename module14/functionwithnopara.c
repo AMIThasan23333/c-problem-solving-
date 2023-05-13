@@ -12,7 +12,7 @@
 
 
     int main(){
-    int s = sum();
-    printf("%d", s);
+    int si = sum();
+    printf("%d", si);
     return 0;  
     }
