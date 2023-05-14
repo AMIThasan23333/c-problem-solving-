@@ -4,14 +4,11 @@
 
 
   void fun(int i){
-
     if(i==6) {
         return;
     };
-     fun(i+1);
     printf("%d", i);
-    
-    
+    fun(i+1);  
   }
 
 
